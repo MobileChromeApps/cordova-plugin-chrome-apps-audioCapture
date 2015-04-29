@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-chrome-apps-audioCapture",
+  "version": "1.0.5-dev",
+  "description": "This plugin provides permissions to capture audio directly from the user's Microphone via the getUserMedia API.",
+  "cordova": {
+    "id": "cordova-plugin-chrome-apps-audiocapture",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-audioCapture.git"
+  },
+  "keywords": [
+    "chrome",
+    "audio",
+    "capture",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-audioCapture/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-audioCapture"
+}
