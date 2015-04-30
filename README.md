@@ -11,6 +11,10 @@ Stable on Android.
 All you need is the `audioCapture` permission defined in the Chrome App manifest.
 
 # Release Notes
+
+## 1.0.5 (April 30, 2015)
+- Renamed plugin to pubilsh to NPM
+
 ## 1.0.4 (Jan 27, 2015)
 * Split Android permissions within plugin.xml into separate tags (fixes #494)
 
