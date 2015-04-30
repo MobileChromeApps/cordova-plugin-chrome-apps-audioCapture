@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-chrome-apps-audioCapture",
-  "version": "1.0.6-dev",
+  "name": "cordova-plugin-chrome-apps-audiocapture",
+  "version": "1.0.5",
   "description": "This plugin provides permissions to capture audio directly from the user's Microphone via the getUserMedia API.",
   "cordova": {
     "id": "cordova-plugin-chrome-apps-audiocapture",
